@@ -1,2 +1,2 @@
 # Image-Gallery-Layout
-This repository contains code for the Image Gallery-Layout built using HTML and CSS. I have build this as a part of Practice and HW with the help of #freeCodecamp
+![Image Gallery](https://github.com/Ronikakashyap/Image-Gallery-Layout/assets/135813402/e9edcdd4-b3f2-4dc3-9d94-babbb36372ba)
